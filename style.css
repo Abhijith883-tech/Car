@@ -1,9 +1,0 @@
-.main{
-    color: red;
-}
-
-@media (max-width:909px){
-    .main{
-        color: blue;
-    }
-}
